@@ -1,0 +1,32 @@
+# firebase_auth_phonenumber
+
+## Project setup
+```
+npm install firebase
+
+npm install router vue-router
+```
+
+(Optional)
+```
+vue add bootstrap bootstrap-vue
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+# phone-number-firebase-verification
